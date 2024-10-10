@@ -20,6 +20,7 @@ print(y in arr)
 brr = np.array([1,2,3,4,5,6,7, 8, 9])
 print(brr)
 crr = brr.reshape(3,3)
+
 print(crr)
 
 c = (1,2,3,4,5,6)
