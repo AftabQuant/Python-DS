@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4c1d06b6-16ef-4fe8-bc57-359dde7ac1c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pandas Module/CompareDF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas Module/Pivoting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas Module/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas Module/CompareDF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas Module/CompareDF.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
     "Python.Basic.executor": "Run",
     "Python.CompareDF.executor": "Run",
     "Python.Main.executor": "Run",
+    "Python.Pivoting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/Ultimate Programming/Data Analytics/Python DS"
